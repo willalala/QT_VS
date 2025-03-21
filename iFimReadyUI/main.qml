@@ -10,34 +10,21 @@ ApplicationWindow {
 
     MainPage{
         id:mainPage
-       // width:500
-       // height:350
+        width:500
+        height:350
         visible:true //设置隐藏/显示
         anchors.centerIn:parent
-        Rectangle{
-	        color:"#498ff8"
-	        radius:8
-
-	        Button{
-		        text:"主页面-返回按钮"
-		        anchors.centerIn:parent
-		        onClicked:{
-			        loginPage.visible=true
-			        mainPage.visible=false
-		        }
-            }
-        }
     }
 
-   /* LoginPage{
+    LoginPage{
         id:loginPage
         width:300
         height:200
         anchors.centerIn:parent
-    }*/
+    }
 }
 
-    /*Column{
+   /*Column{
         spacing:10
         anchors.centerIn:parent
 
@@ -79,11 +66,13 @@ ApplicationWindow {
             id:resultLabel
             text:"result:"
         }
-    }*/
+    }
 
-    /*function calculate(operation){
-        var num1=parsefloat(input1.text);
-        var num2=parsefloat(input2.text);
+    function calculate(operation){
+        //var num1=parsefloat(input1.text);
+        //var num2=parsefloat(input2.text);
+        var num1=input1.text;
+        var num2=input2.text;
         var result;
 
         switch(operation){
@@ -104,7 +93,7 @@ ApplicationWindow {
                 }
                 break;
         }
-        resultlabel.text="result:"+result;
+        resultLabel.text="result:"+result;
     }
 }*/
 

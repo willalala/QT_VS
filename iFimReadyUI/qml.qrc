@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/qt/qml/ifimreadyui">
         <file>main.qml</file>
+        <file>LoginPage.qml</file>
+        <file>MainPage.qml</file>
     </qresource>
 </RCC>

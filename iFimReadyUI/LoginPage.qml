@@ -10,7 +10,7 @@ Rectangle{
 	radius:8
 
 	Button{
-		text:"µÇÂ¼½çÃæ-µÇÂ¼°´Å¥"
+		text:"Button - To Main"
 		anchors.centerIn:parent
 		onClicked:{
 			loginPage.visible=false
