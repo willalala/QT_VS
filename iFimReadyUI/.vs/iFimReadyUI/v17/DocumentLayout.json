@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\",
+  "WorkspaceRootPath": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\LoginPage.qml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:LoginPage.qml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.qml||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:main.qml||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\MainPage.qml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:MainPage.qml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.qml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:main.qml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E359E92-C9E7-46EE-A451-E2062FADE765}|iFimReadyUI.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,29 +36,56 @@
         },
         {
           "DockedWidth": 338,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.qml",
-              "DocumentMoniker": "C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.qml",
+              "DocumentMoniker": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.qml",
               "RelativeDocumentMoniker": "main.qml",
-              "ToolTip": "C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.qml",
+              "ToolTip": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.qml",
               "RelativeToolTip": "main.qml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
               "Icon": "0d2e443f-6dbb-4001-99dc-9cd7d5c924e7.000003|",
-              "WhenOpened": "2025-03-14T08:22:32.918Z"
+              "WhenOpened": "2025-03-21T08:50:37.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.qml",
+              "DocumentMoniker": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\MainPage.qml",
+              "RelativeDocumentMoniker": "MainPage.qml",
+              "ToolTip": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\MainPage.qml",
+              "RelativeToolTip": "MainPage.qml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "0d2e443f-6dbb-4001-99dc-9cd7d5c924e7.000003|",
+              "WhenOpened": "2025-03-21T07:26:59.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginPage.qml",
+              "DocumentMoniker": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\LoginPage.qml",
+              "RelativeDocumentMoniker": "LoginPage.qml",
+              "ToolTip": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\LoginPage.qml",
+              "RelativeToolTip": "LoginPage.qml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "0d2e443f-6dbb-4001-99dc-9cd7d5c924e7.000003|",
+              "WhenOpened": "2025-03-21T07:18:50.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.cpp",
+              "DocumentMoniker": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\willaGitSoftware\\QT_vs\\iFimReadyUI\\main.cpp",
+              "ToolTip": "C:\\willaGitSoftware\\QT_VS\\iFimReadyUI\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-14T03:10:56.657Z",
               "EditorCaption": ""

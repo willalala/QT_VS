@@ -1,6 +1,5 @@
 ﻿   Qt/MSBuild: 3.3.1.1
    Qt: 5.14.2
   rcc qml.qrc
-  main.cpp
   qrc_qml.cpp
-  iFimReadyUI.vcxproj -> C:\willaGitSoftware\QT_vs\iFimReadyUI\Debug\iFimReadyUI.exe
+  iFimReadyUI.vcxproj -> C:\willaGitSoftware\QT_VS\iFimReadyUI\Debug\iFimReadyUI.exe

@@ -33,4 +33,12 @@
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="LoginPage.qml">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="MainPage.qml">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

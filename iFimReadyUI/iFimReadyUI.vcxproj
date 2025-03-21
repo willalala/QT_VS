@@ -94,7 +94,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <None Include="MainPage.qml" />
     <QtRcc Include="qml.qrc" />
+    <None Include="LoginPage.qml" />
     <None Include="main.qml" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
